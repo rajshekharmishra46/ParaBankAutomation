@@ -1,0 +1,3 @@
+file:src/test/java/features/transactionVerification_C.feature:2
+file:src/test/java/features/openingAccount_A.feature:3
+file:src/test/java/features/accountVerification_B.feature:2
